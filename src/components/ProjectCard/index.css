@@ -1,0 +1,16 @@
+.list-container {
+  list-style: none;
+  border-radius: 18px;
+  margin: 15px;
+  outline: thin;
+  background-color: #e2e8f0;
+}
+.image {
+  width: 250px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+p {
+  font-family: roboto;
+  padding-left: 15px;
+}
